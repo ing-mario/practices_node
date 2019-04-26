@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "obtener la serie fibonacci ",
+  "main": "app.js",
+  "scripts": {
+    "test": "fibonacci"
+  },
+  "author": "Mario Tip",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}

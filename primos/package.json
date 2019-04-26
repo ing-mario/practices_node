@@ -1,0 +1,15 @@
+{
+  "name": "primos",
+  "version": "1.0.0",
+  "description": "numeros primos ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Tip",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.11",
+    "yargs": "^13.2.2"
+  }
+}
